@@ -15,5 +15,10 @@ namespace MyTestGitApp
         {
             Console.WriteLine("Хай!");
         }
+
+        public void Eat()
+        {
+            Console.WriteLine("Ммм, вкусно...");
+        }
     }
 }
