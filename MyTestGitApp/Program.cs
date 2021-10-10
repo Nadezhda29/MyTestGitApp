@@ -9,6 +9,7 @@ namespace MyTestGitApp
             Person person = new Person();
 
             person.Say();
+            person.Eat();
 
             Console.ReadKey();
         }
