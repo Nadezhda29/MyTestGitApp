@@ -13,7 +13,7 @@ namespace MyTestGitApp
         public int StreetId { get; set; }
         public void Say()
         {
-            Console.WriteLine("Привет!");
+            Console.WriteLine("Хай!");
         }
     }
 }
